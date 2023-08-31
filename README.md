@@ -1,8 +1,6 @@
-# React + Vite
+# Minecraft JS
+Proyecto basado en el proyecto de freecodecamp & Midudev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[https://www.youtube.com/watch?v=dm7nfe3bOE4](Midudev)
+[https://www.freecodecamp.org/news/code-a-minecraft-clone-using-react-and-three-js/)](freecodecamp)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
